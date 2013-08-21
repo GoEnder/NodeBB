@@ -3,6 +3,8 @@ Here lies the foundation tempaltes for NodeBB. Custom built from scratch.
 
 ## Files Needed:
 
+Make sure to remove these from this list once they have been written.
+
 * public/templates/403.tpl
 * public/templates/404.tpl
 * public/templates/account.tpl
@@ -59,5 +61,3 @@ Here lies the foundation tempaltes for NodeBB. Custom built from scratch.
 * public/templates/topic.tpl
 * public/templates/unread.tpl
 * public/templates/users.tpl
-
-Please remove these once completed.

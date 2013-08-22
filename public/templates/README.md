@@ -46,7 +46,7 @@ Make sure to remove these from this list once they have been written.
 * install/privileges.tpl
 * install/redis.tpl
 * install/social.tpl
-* login.tpl
+* ~~login.tpl~~
 * logout.tpl
 * noscript/category.tpl
 * noscript/header.tpl

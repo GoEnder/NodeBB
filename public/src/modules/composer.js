@@ -109,7 +109,7 @@ define(['taskbar'], function(taskbar) {
 			var taskbar = document.getElementById('taskbar');
 
 			composer.postContainer = document.createElement('div');
-			composer.postContainer.className = 'post-window row-fluid';
+			composer.postContainer.className = 'post-window row';
 			composer.postContainer.innerHTML =	'<div class="span5">' +
 													'<input type="text" tabIndex="1" placeholder="Enter your topic title here..." />' +
 													'<div class="btn-toolbar formatting-bar">' +
